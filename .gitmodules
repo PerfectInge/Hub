@@ -1,0 +1,3 @@
+[submodule "FomaH"]
+	path = FomaH
+	url = git@github.com:MakossoSteave/FomaH.git
